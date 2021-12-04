@@ -1,0 +1,13 @@
+E:\CSstudy\CS_study_01\bin\Debug\netcoreapp3.1\CS_study_01.exe
+E:\CSstudy\CS_study_01\bin\Debug\netcoreapp3.1\CS_study_01.deps.json
+E:\CSstudy\CS_study_01\bin\Debug\netcoreapp3.1\CS_study_01.runtimeconfig.json
+E:\CSstudy\CS_study_01\bin\Debug\netcoreapp3.1\CS_study_01.runtimeconfig.dev.json
+E:\CSstudy\CS_study_01\bin\Debug\netcoreapp3.1\CS_study_01.dll
+E:\CSstudy\CS_study_01\bin\Debug\netcoreapp3.1\CS_study_01.pdb
+E:\CSstudy\CS_study_01\obj\Debug\netcoreapp3.1\CS_study_01.csprojAssemblyReference.cache
+E:\CSstudy\CS_study_01\obj\Debug\netcoreapp3.1\CS_study_01.AssemblyInfoInputs.cache
+E:\CSstudy\CS_study_01\obj\Debug\netcoreapp3.1\CS_study_01.AssemblyInfo.cs
+E:\CSstudy\CS_study_01\obj\Debug\netcoreapp3.1\CS_study_01.csproj.CoreCompileInputs.cache
+E:\CSstudy\CS_study_01\obj\Debug\netcoreapp3.1\CS_study_01.dll
+E:\CSstudy\CS_study_01\obj\Debug\netcoreapp3.1\CS_study_01.pdb
+E:\CSstudy\CS_study_01\obj\Debug\netcoreapp3.1\CS_study_01.genruntimeconfig.cache
